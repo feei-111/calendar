@@ -4,7 +4,7 @@
 
 > 📖 [English README](README.md)
 
-<img width="598" height="425" alt="{9E73CC44-108F-4A47-A3A4-B25217BBC5A6}" src="https://github.com/user-attachments/assets/1145beb0-2adf-4cbc-8485-34f4720184a3" />
+<img width="1195" height="849" alt="图片" src="https://github.com/user-attachments/assets/a71003d0-ce58-4946-aed3-042a823e3ce4" />
 
 ---
 
