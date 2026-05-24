@@ -6,7 +6,7 @@ internationalisation.
 
 > 📖 [中文 README](README_zh.md)
 
-<img width="600" height="425" alt="{43116078-A855-4E4F-94C7-D0EE65E1287D}" src="https://github.com/user-attachments/assets/b0f5fd09-6e9f-4ed7-b101-4bff4f4b40b5" />
+<img width="1200" height="850" alt="图片" src="https://github.com/user-attachments/assets/ee4d172c-7eed-4bf0-af0f-a10315a6e5d0" />
 
 ---
 
